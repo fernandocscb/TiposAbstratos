@@ -1,0 +1,3 @@
+Tipo Abstrato de Dado (TAD)
+
+*Exercício a ser realizado
